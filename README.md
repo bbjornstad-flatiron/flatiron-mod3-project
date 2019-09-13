@@ -14,8 +14,14 @@ The project is divided into the following sections:
 - [data](./data/): This folder contains additional CSV and Excel files with data on instances and deaths from chronic lung disease and cancer.
 - [cleaned_data](./cleaned_data/): This folder contains cleaned data files suitable for use in analysis.
 - [cleaning_data.ipynb](cleaning_data.ipynb): This interactive notebook handles cleaning and preparation of the data.
-- [data_analysis.ipynb](data_analysis.ipynb): This interactive notebook handles the analysis of prepared data, including automated hypothesis testing and visualizations.
+- [data_analysis.ipynb](data_analysis.ipynb): This interactive technical notebook handles the analysis of prepared data, including automated hypothesis testing and visualizations.
 - [visualizations_and_conclusions.ipynb](visualizations_and_conclusions.ipynb): This interactive notebook aimed at a non-technical audience contains visualizations and conclusions from our data analysis.
 - [slides.pdf](slides.pdf): This slide deck contains a presentation on the material and results gathered here.
+- [non_technical_notebook.ipynb](non_technical_notebook.ipynb): This is a non-technical notebook that gives a high-level overview of our project and again goes over visuualizations and conclusions.
 
-## Hypotheses:
+## Responsibilities:
+Data cleaning - Bailey, Ahmed
+Data analysis/technical notebook - Bailey
+pyaqs.py file - Bailey
+Non-technical notebook - Ahmed
+Slide deck - Ahmed
