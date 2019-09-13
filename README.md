@@ -21,7 +21,11 @@ The project is divided into the following sections:
 
 ## Responsibilities:
 Data cleaning - Bailey, Ahmed
+
 Data analysis/technical notebook - Bailey
+
 pyaqs.py file - Bailey
+
 Non-technical notebook - Ahmed
-Slide deck - Ahmed
+
+Slide deck - Ahmed, Bailey
